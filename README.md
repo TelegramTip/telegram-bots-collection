@@ -15,8 +15,8 @@
 
 | 名字           | 链接                              | 功能描述                                |
 |----------------|-----------------------------------|-----------------------------------------|
-| 极搜   | [https://t.me/jisou](https://t.me/jisou?start=a_6289656876)      | 帮你找到有趣的群组、频道、视频、音乐、电影、新闻            |
-| ReminderBot    | [链接](https://t.me/reminderbot)  | 设置提醒任务，帮助你记住重要事项        |
+| 极搜   | [https://t.me/jisou](https://t.me/jisou?start=a_6289656876)      | Telegram必备的中文搜索引擎，发送关键词即可找到有趣的群组、频道、视频、音乐、电影、新闻            |
+| SOSO    | [https://t.me/soso](https://t.me/soso?start=a_6289656876)  | Telegram必备全能搜索机器人，使用SOSO机器人可以搜索Telegram群组、频道、甚至视频、音乐等任何您想要的资源。         |
 | PomodoroTimer  | [链接](https://t.me/pomodorobot)  | 番茄工作法计时器，提升工作效率          |
 
 ---
