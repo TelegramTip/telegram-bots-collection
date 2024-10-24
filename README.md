@@ -19,6 +19,7 @@
 | SOSO    | [https://t.me/soso](https://t.me/soso?start=a_6289656876)  | Telegram必备全能搜索机器人，使用SOSO机器人可以搜索Telegram群组、频道、甚至视频、音乐等任何您想要的资源。         |
 | i快搜  | [http://t.me/ikuaisobot](http://t.me/ikuaisobot?start=6289656876)  | TG必备的搜索引擎，i快搜帮你精准找到，想要的群组、频道、图片、视频、商机。          |
 | 阿里云盘搜索  | [http://t.me/yunpan_bot](http://t.me/yunpan_bot)  | 在聊天对话框输入命令 “/s 关键词” 即可搜索阿里云盘资源          |
+| 夸克网盘搜索  | [http://t.me/kejiqubot](http://t.me/kejiqubot)  | 在聊天对话框输入命令 “/s 关键词” 即可搜索夸克网盘资源          |
 
 ---
 
