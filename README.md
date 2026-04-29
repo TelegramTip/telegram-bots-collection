@@ -40,6 +40,7 @@
 | FileConverter  | [链接](https://t.me/fileconverterbot) | 支持多种格式的文件转换，方便快捷        |
 | TranslateBot   | [链接](https://t.me/translatebot) | 实时翻译文本，支持多种语言              |
 | WeatherBot     | [链接](https://t.me/weatherbot)   | 提供实时天气预报和气象信息              |
+| Cyber Collector | [链接](https://t.me/cybercollectorbot) | 免费多平台视频下载机器人，支持 TikTok（无水印）、Instagram Reels/Stories、YouTube+Shorts、X/Twitter、Facebook，无需注册，无广告 |
 
 ---
 
