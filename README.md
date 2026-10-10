@@ -40,6 +40,7 @@
 | FileConverter  | [链接](https://t.me/fileconverterbot) | 支持多种格式的文件转换，方便快捷        |
 | TranslateBot   | [链接](https://t.me/translatebot) | 实时翻译文本，支持多种语言              |
 | WeatherBot     | [链接](https://t.me/weatherbot)   | 提供实时天气预报和气象信息              |
+| TinyTelegramTools | [链接](https://t.me/TinyTelegramToolsBot) | 一站式工具箱：匿名留言箱、提醒、群组记账、习惯打卡、活动报名等 Mini Apps；免费使用，Pro 为一次性 150 Stars 解锁 |
 
 ---
 
